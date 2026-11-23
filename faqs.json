@@ -1,0 +1,22 @@
+[
+  {"question": "What is CodeAlpha?", "answer": "CodeAlpha is a software development company that offers internships in AI, web development and other technologies."},
+  {"question": "What is the AI internship about?", "answer": "It gives you hands-on experience in AI model development, machine learning workflows and real-time data processing, with expert mentorship."},
+  {"question": "How do I apply for the internship?", "answer": "Visit www.codealpha.tech and fill in the application form for your preferred domain."},
+  {"question": "What are the benefits and perks of the internship?", "answer": "You get an offer letter, a QR-verified completion certificate, a unique ID certificate, a letter of recommendation (based on performance), job opportunities with placement support, and resume building support."},
+  {"question": "Will I get an internship certificate?", "answer": "Yes. If you complete the minimum required tasks you get a completion certificate with a QR code and a unique ID."},
+  {"question": "Will I get an offer letter?", "answer": "Yes, an internship offer letter is part of the perks."},
+  {"question": "Will I get a letter of recommendation?", "answer": "Yes, a letter of recommendation is given based on your performance."},
+  {"question": "Is there placement or job support?", "answer": "Yes, CodeAlpha offers job opportunities and placement support, plus resume building support."},
+  {"question": "How many tasks do I need to complete?", "answer": "You must complete at least 2 or 3 tasks out of the 4 listed for your domain. Submitting only one task is incomplete and no certificate is issued."},
+  {"question": "What are the AI internship tasks?", "answer": "The 4 tasks are: 1) Language Translation Tool, 2) Chatbot for FAQs, 3) Music Generation with AI, 4) Object Detection and Tracking."},
+  {"question": "Where should I upload my code?", "answer": "Upload your complete source code to GitHub in a repository named CodeAlpha_ProjectName."},
+  {"question": "How do I submit my completed task?", "answer": "Use the submission form shared in your WhatsApp group. Also post a video explanation on LinkedIn with your GitHub repo link."},
+  {"question": "Do I need to post on LinkedIn?", "answer": "Yes. Share your internship status on LinkedIn tagging @CodeAlpha, and post a video explanation of your project with the GitHub link."},
+  {"question": "How can I contact CodeAlpha?", "answer": "Email services@codealpha.tech or services.codealpha@gmail.com, or WhatsApp +91 9336576683."},
+  {"question": "What is the CodeAlpha website?", "answer": "The website is www.codealpha.tech."},
+  {"question": "Which programming language should I use?", "answer": "Python is the recommended language for all the AI tasks."},
+  {"question": "Which libraries are used for the FAQ chatbot task?", "answer": "Use NLTK or SpaCy for text preprocessing, and cosine similarity (for example with scikit-learn) to match questions."},
+  {"question": "Is the internship paid?", "answer": "Please check your offer letter or contact CodeAlpha support to confirm. The listed perks are certificates, a recommendation letter and placement support."},
+  {"question": "What if I complete only one task?", "answer": "Submitting only one task is considered incomplete and the certificate will not be issued."},
+  {"question": "What should my GitHub repository be named?", "answer": "Name it CodeAlpha_ProjectName, for example CodeAlpha_FAQ_Chatbot."}
+]
